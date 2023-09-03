@@ -5,50 +5,124 @@ Copy the template, paste it to your GitHub README and edit! -->
 # Project Title
 Python codes for the Building AI course 
 
-
 ## Summary
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
-
-## Background
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+This repository contains my code from [A free online course - Elements of A](https://buildingai.elementsofai.com/). This course has five chapters.
+1.	Getting started with AI
+3.	Dealing with uncertainty
+4.	Machine learning
+5.	Neural Networks
+6.	Conclusion
 
 
-## How is it used?
+## 1. Getting started with AI
+### Optimisation
+Example 1 Intermediary: Listing pineapple routes
+Example 1 Advance: Listing pineapple routes
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Example 2 Intermediary: Pineapple route emissions <br>
+Example 2 Advance: Pineapple route emissions
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+### Hill Climbing
+Example 3 Intermediary: Reach the highest summit <br>
+Example 3 Advance:  Reach the highest summit
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+Example 4 Intermediary: Probabilities <br>
+Example 4 Advance: Probabilities
 
-This is how you create code examples:
+Example 5 Intermediary: Warn-up Temprature <br>
+Example 5 Advance:  Warn-up Temprature
+
+Example 6 Intermediary: Simulated Annealing <br>
+Example 6 Advance:  Simulated Annealing
+
+
+
+
+
+
+Example 6
 ```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
+Example 6 Intermediary: Simulated Annealing
+import math
+import random
+import numpy as np
+import io
+from io import StringIO
+import math
+import random             	# just for generating random mountains                                 	 
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
+# generate random mountains                                                                               	 
+w = [random.random()/3, random.random()/3, random.random()/3]
+h = [1.+math.sin(1+x/6.)*w[0]+math.sin(-.3+x/9.)*w[1]+math.sin(-.2+x/30.)*w[2] for x in range(100)]
+h[0] = 0.0; h[99] = 0.0
 
-   # write your solution here
+def climb(x, h):
+    # keep climbing until we've found a summit
+    summit = False
 
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
+    # edit here
+    while not summit:
+        summit = True         # stop unless there's a way up
+        if h[x + 1] > h[x]:
+            x = x + 1         # right is higher, go there
+            summit = False    # and keep going
+        elif  h[x - 1] > h[x]:
+            x = x - 1         # left is higher, go there
+            summit = False    # and keep going
+    return x
 
-main()
+
+def main(h):
+
+    # start at a random place                                                                                  	 
+    x0 = random.randint(1, 98)
+    x = climb(x0, h)
+
+    print("Venla started at %d and got to %d" % (x0, x))
+    return x0, x
+
+main(h)
 ```
+
+```
+Example 6 Advanced: Simulated Annealing CHECK
+import math
+import random
+import numpy as np
+import io
+from io import StringIO
+import math
+import random             	# just for generating random mountains                                 	 
+
+# generate random mountains                                                                               	 
+
+w = [.05, random.random()/3, random.random()/3]
+h = [1.+math.sin(1+x/.6)*w[0]+math.sin(-.3+x/9.)*w[1]+math.sin(-.2+x/30.)*w[2] for x in range(100)]
+
+def climb(x, h):
+    # keep climbing until we've found a summit
+    summit = False
+    while not summit:
+        summit = True  # stop unless there's a way up
+        for i in range(5):
+            if x + i < 100 and x + i >= 0:
+                if h[x + i] > h[x]:
+                    x = x + i  # right is higher, go there
+                    summit = False  # and keep going
+                    break
+    return x
+
+
+def main(h):
+    # start at a random place                                                                                  	 
+    x0 = random.randint(1, 98)
+    x = climb(x0, h)
+
+    return x0, x
+
+main(h)
+```
+
 
 
 ## Data sources and AI methods
@@ -77,3 +151,14 @@ How could your project grow and become something even more? What kind of skills,
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
+
+## How is it used?
+
+Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+
+Images will make your README look nice!
+Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
+If you need to resize images, you have to use an HTML tag, like this:
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
