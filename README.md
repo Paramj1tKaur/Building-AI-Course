@@ -27,8 +27,8 @@ This repository contains my python code files from [A free online course - Eleme
 
 [Exercise: 5b Warm-up_temprature](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise5b_warm-up_temprature.py)
 
-[Exercise: 6a Probabilites](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise6a_simulated_annealing.py)  <br>
-[Exercise: 6b Probabilites](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise6b_simulated_annealing.py)
+[Exercise: 6a Simulated_annealing](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise6a_simulated_annealing.py)  <br>
+[Exercise: 6b Simulated_annealing](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise6b_simulated_annealing.py)
 
 
 ## 2. Dealing with uncertainty
