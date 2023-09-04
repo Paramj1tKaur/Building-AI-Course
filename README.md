@@ -32,5 +32,19 @@ This repository contains my python code files from [A free online course - Eleme
 
 
 ## 2. Dealing with uncertainty
+[Exercise: 7a Flip_the_coin](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-dealing_with_uncertainity/Exercise7a_flip_the_coin.py) <br>
+[Exercise: 7b Flip_the_coin](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-dealing_with_uncertainity/Exercise7b_flip_the_coin.py)
+
+[Exercise: 8a Fishing_in_the_nordics](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-dealing_with_uncertainity/Exercise8a_fishing_in_the_nordics..py) <br>
+[Exercise: 8b Fishing_in_the_nordics](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-dealing_with_uncertainity/Exercise8b_fishing_in_the_nordics.py)
+
+[Exercise: 9b Block_not](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-dealing_with_uncertainity/Exercise9b_block_not.py)
+
+[Exercise: 10a Naive_bays_classifier](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-dealing_with_uncertainity/Exercise10a_naive_bays_classifier.py) <br>
+[Exercise: 10b Naive_bays_classifier](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-dealing_with_uncertainity/Exercise10b_naive_bays_classifier..py)
+
+
+
+
 
 
