@@ -7,7 +7,7 @@ This repository contains my python code files from [A free online course - Eleme
 1.	Getting started with AI
 2.	Dealing with uncertainty
 3.	Machine learning
-4.	Over fitting
+4.	Neural network
 5.	Conclusion
 
 
@@ -43,31 +43,35 @@ This repository contains my python code files from [A free online course - Eleme
 [Exercise: 10b Naive_bays_classifier](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-%20Dealing_with_uncertainity/Exercise10b_naive_bays_classifier..py)
 
 ## 3. Machine learning
-[Exercise: 11a RealEstate](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercise11a_RealEstate.py)  <br>
-[Exercise: 11b RealEstate](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercise11b_RealEstate.py)
+[Exercise: 11a RealEstate](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercise11a_RealEstate.py)  <br>
+[Exercise: 11b RealEstate](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercise11b_RealEstate.py)
 
-[Exercise: 12a Least_square](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie12a_least_square.py)  <br>
-[Exercise: 12b Least_square](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie12b_least_square.py)
+[Exercise: 12a Least_square](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie12a_least_square.py)  <br>
+[Exercise: 12b Least_square](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie12b_least_square.py)
 
-[Exercise: 13a Prediction_more_data](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie13a_prediction_more_data.py)    <br>
-[Exercise: 13b Prediction_more_data](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie13b_prediction_more_data.py)
+[Exercise: 13a Prediction_more_data](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie13a_prediction_more_data.py)    <br>
+[Exercise: 13b Prediction_more_data](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie13b_prediction_more_data.py)
 
-[Exercise: 14a Training_vs_test_data](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie14a_training_vs_test_data.py)  <br>
-[Exercise: 14b Training_vs_test_data](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie14b_training_vs_test_data.py)
+[Exercise: 14a Training_vs_test_data](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie14a_training_vs_test_data.py)  <br>
+[Exercise: 14b Training_vs_test_data](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie14b_training_vs_test_data.py)
 
-[Exercise: 15a Nearest_neighbor_vector_distance](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie15a_nn_vector_distance.py)  <br>
-[Exercise: 15b Nearest_neighbor_vector_distance]( https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie15b_nn_vector_distance.py)  
+[Exercise: 15a Nearest_neighbor_vector_distance](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie15a_nn_vector_distance.py)  <br>
+[Exercise: 15b Nearest_neighbor_vector_distance]( https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie15b_nn_vector_distance.py)  
 
-[Exercise: 16a Nearest_neighbor](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie16a_nearest_neighbor.py)  <br>
-[Exercise: 16b Nearest_neighbor](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie16b_nearest_neighbor.py) 
+[Exercise: 16a Nearest_neighbor](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie16a_nearest_neighbor.py)  <br>
+[Exercise: 16b Nearest_neighbor](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie16b_nearest_neighbor.py) 
 
-[Exercise: 17a Bag_of_words](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie17a_bag_of_words.py) <br>
-[Exercise: 17b Bag_of_words](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie17b_bag_of_words.py)
+[Exercise: 17a Bag_of_words](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie17a_bag_of_words.py) <br>
+[Exercise: 17b Bag_of_words](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie17b_bag_of_words.py)
 
-[Exercise: 18a TF_DF](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie18a_tf_df.py) <br>
-[Exercise: 18b TF_DF](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie18b_tf_df.py)
+[Exercise: 18a TF_DF](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie18a_tf_df.py) <br>
+[Exercise: 18b TF_DF](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercsie18b_tf_df.py)
 
-## 1. Over fitting
+[Exercise: 19a Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercise19a_overfitting.py) <br>
+[Exercise: 19b Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercise19b_overfitting.py)
+
+
+## 4. Neural network
 [Exercise: 19a Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise19a_overfitting.py) <br>
 [Exercise: 19b Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise19b_overfitting.py)
 
