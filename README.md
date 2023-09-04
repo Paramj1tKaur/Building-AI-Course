@@ -15,7 +15,7 @@ This repository contains my python code files from [A free online course - Eleme
 Chapter 1 python exercise files.
 
 [Exercise: 1a Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_started/Exercise1a_listing_pineapple_routes.py) <br>
-[Exercise: 1b Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_startedExercise1b_listing_pineapple_routes.py)
+[Exercise: 1b Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_started/Exercise1b_listing_pineapple_routes.py)
 
 [Exercise: 2a Pineapple_routes_emissions](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_started/Exercise2a_pineapple_routes_emissions.py)  <br>
 [Exercise: 2b Pineapple_routes_emissions](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_started/Exercise2b_pineapple_routes_emissions.py)
