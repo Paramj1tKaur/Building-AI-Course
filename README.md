@@ -6,7 +6,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Python codes for the Building AI course 
 
 ## Summary
-This repository contains my code from [A free online course - Elements of A](https://buildingai.elementsofai.com/). This course has five chapters.
+This repository contains my python code files from [A free online course - Elements of A](https://buildingai.elementsofai.com/). This course has five chapters.
 1.	Getting started with AI
 3.	Dealing with uncertainty
 4.	Machine learning
