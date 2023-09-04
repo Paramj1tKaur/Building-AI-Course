@@ -66,3 +66,16 @@ This repository contains my python code files from [A free online course - Eleme
 
 [Exercise: 18a TF_DF](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie18a_tf_df.py) <br>
 [Exercise: 18b TF_DF](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-machine%20learnig/Exercsie18b_tf_df.py)
+
+## 1. Over fitting
+[Exercise: 19a Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise19a_overfitting.py) <br>
+[Exercise: 19b Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise19b_overfitting.py)
+
+[Exercise: 20a Logistic](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise20a_logistic.py) <br>
+[Exercise: 20b Logistic](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise20b_logistic.py)
+
+[Exercise: 21a Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise21a_logistic_to_Neural.py) <br>
+[Exercise: 21b Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise21b_logistic_to_Neural.py)
+
+
+
