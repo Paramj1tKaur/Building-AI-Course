@@ -81,7 +81,7 @@ Chapter 4 python exercise files.
 [Exercise: 20a Logistic](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_network/Exercise20a_logistic.py) <br>
 [Exercise: 20b Logistic](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_network/Exercise20b_logistic.py)
 
-[Exercise: 21a Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_networkg/Exercise21a_logistic_to_Neural.py) <br>
+[Exercise: 21a Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_network/Exercise21a_logistic_to_Neural.py) <br>
 [Exercise: 21b Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_network/Exercise21b_logistic_to_Neural.py)
 
 
