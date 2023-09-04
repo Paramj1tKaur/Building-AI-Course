@@ -2,10 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-Python codes for the Building AI course 
-
-## Summary
+#  Building AI Course
 This repository contains my python code files from [A free online course - Elements of A](https://buildingai.elementsofai.com/). This course has five chapters.
 1.	Getting started with AI
 3.	Dealing with uncertainty
