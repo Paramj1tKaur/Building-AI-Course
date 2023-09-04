@@ -13,11 +13,17 @@ This repository contains my python code files from [A free online course - Eleme
 
 ## 1. Getting started with AI
 
-[Exercise: 1a listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1a_listing_pineapple_routes.py) <br>
-[Exercise: 1b listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1b_listing_pineapple_routes.py)
+[Exercise: 1a Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1a_listing_pineapple_routes.py) <br>
+[Exercise: 1b Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1b_listing_pineapple_routes.py)
 
 [Exercise: 2a Pineapple_routes_emissions](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise2a_pineapple_routes_emissions.py)  <br>
-[Exercise:2b Pineapple_routes_emissions](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise2b_pineapple_routes_emissions.py)
+[Exercise: 2b Pineapple_routes_emissions](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise2b_pineapple_routes_emissions.py)
+
+[Exercise: 3a Reach_highest_summit](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise3a_reach_highest_summit.py)  <br>
+[Exercise: 3b Reach_highest_summit](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise3b_reach_highest_summit%20.py)
+
+[Exercise: 4a Probabilites](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise4a_probabilites.py)  <br>
+[Exercise: 4a Probabilites](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise4b_probabilites.py)
 
 
 ### Hill Climbing
