@@ -12,9 +12,11 @@ This repository contains my python code files from [A free online course - Eleme
 
 
 ## 1. Getting started with AI
-### Optimisation
-Example 1 Intermediary: Listing pineapple routes
-Example 1 Advance: Listing pineapple routes
+
+[Exercise:1a_listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1a_listing_pineapple_routes.py)
+
+[Exercise:1b_listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1b_listing_pineapple_routes.py)
+
 
 Example 2 Intermediary: Pineapple route emissions <br>
 Example 2 Advance: Pineapple route emissions
