@@ -22,6 +22,7 @@ Example 2 Advance: Pineapple route emissions
 ### Hill Climbing
 Example 3 Intermediary: Reach the highest summit <br>
 Example 3 Advance:  Reach the highest summit
+https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1a_listing_pineapple_routes.py
 
 Example 4 Intermediary: Probabilities <br>
 Example 4 Advance: Probabilities
