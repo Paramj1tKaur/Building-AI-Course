@@ -11,7 +11,7 @@ This repository contains my python code files from [A free online course - Eleme
 6.	Conclusion
 
 
-## 1. Getting started with AI
+## 1. Getting started
 
 [Exercise: 1a Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1a_listing_pineapple_routes.py) <br>
 [Exercise: 1b Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1b_listing_pineapple_routes.py)
@@ -25,8 +25,10 @@ This repository contains my python code files from [A free online course - Eleme
 [Exercise: 4a Probabilites](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise4a_probabilites.py)  <br>
 [Exercise: 4a Probabilites](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise4b_probabilites.py)
 
+[Exercise: 5b Warm-up_temprature](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise5b_warm-up_temprature.py)
 
-### Hill Climbing
+
+## 2. Dealing with uncertainty
 Example 3 Intermediary: Reach the highest summit <br>
 Example 3 Advance:  Reach the highest summit
 https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise1a_listing_pineapple_routes.py
