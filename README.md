@@ -12,6 +12,8 @@ This repository contains my python code files from [A free online course - Eleme
 
 
 ## 1. Getting started
+Chapter 1 python exercise files.
+
 [Exercise: 1a Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_started/Exercise1a_listing_pineapple_routes.py) <br>
 [Exercise: 1b Listing_pineapple_routes](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_startedExercise1b_listing_pineapple_routes.py)
 
@@ -29,8 +31,9 @@ This repository contains my python code files from [A free online course - Eleme
 [Exercise: 6a Simulated_annealing](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_started/Exercise6a_simulated_annealing.py)  <br>
 [Exercise: 6b Simulated_annealing](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-%20Getting_started/Exercise6b_simulated_annealing.py)
 
-
 ## 2. Dealing with uncertainty
+Chapter 2 python exercise files.
+
 [Exercise: 7a Flip_the_coin](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-%20Dealing_with_uncertainity/Exercise7a_flip_the_coin.py) <br>
 [Exercise: 7b Flip_the_coin](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-%20Dealing_with_uncertainity/Exercise7b_flip_the_coin.py)
 
@@ -43,6 +46,8 @@ This repository contains my python code files from [A free online course - Eleme
 [Exercise: 10b Naive_bays_classifier](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%202%20-%20Dealing_with_uncertainity/Exercise10b_naive_bays_classifier..py)
 
 ## 3. Machine learning
+Chapter 3 python exercise files.
+
 [Exercise: 11a RealEstate](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercise11a_RealEstate.py)  <br>
 [Exercise: 11b RealEstate](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercise11b_RealEstate.py)
 
@@ -70,16 +75,14 @@ This repository contains my python code files from [A free online course - Eleme
 [Exercise: 19a Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercise19a_overfitting.py) <br>
 [Exercise: 19b Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%203%20-%20Machine_learnig/Exercise19b_overfitting.py)
 
-
 ## 4. Neural network
-[Exercise: 19a Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise19a_overfitting.py) <br>
-[Exercise: 19b Over_fitting](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise19b_overfitting.py)
+Chapter 4 python exercise files.
 
-[Exercise: 20a Logistic](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise20a_logistic.py) <br>
-[Exercise: 20b Logistic](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise20b_logistic.py)
+[Exercise: 20a Logistic](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_network/Exercise20a_logistic.py) <br>
+[Exercise: 20b Logistic](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_network/Exercise20b_logistic.py)
 
-[Exercise: 21a Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise21a_logistic_to_Neural.py) <br>
-[Exercise: 21b Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-overfitting/Exercise21b_logistic_to_Neural.py)
+[Exercise: 21a Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_networkg/Exercise21a_logistic_to_Neural.py) <br>
+[Exercise: 21b Neural network](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%204%20-%20Neural_network/Exercise21b_logistic_to_Neural.py)
 
 
 
