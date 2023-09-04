@@ -20,9 +20,6 @@ This repository contains my python code files from [A free online course - Eleme
 [Exercise:2b Pineapple_routes_emissions](https://github.com/Paramj1tKaur/Building-AI-Course/blob/main/Chapter%201%20-getting_started/Exercise2b_pineapple_routes_emissions.py)
 
 
-Example 2 Intermediary: Pineapple route emissions <br>
-Example 2 Advance: Pineapple route emissions
-
 ### Hill Climbing
 Example 3 Intermediary: Reach the highest summit <br>
 Example 3 Advance:  Reach the highest summit
